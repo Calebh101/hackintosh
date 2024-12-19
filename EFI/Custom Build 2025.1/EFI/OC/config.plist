@@ -8,6 +8,14 @@
 		<array>
 			<dict>
 				<key>Comment</key>
+				<string>SSDT-AWAC.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-AWAC.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>SSDT-EC-USBX-DESKTOP.aml</string>
 				<key>Enabled</key>
 				<true/>
@@ -24,11 +32,11 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-PMC.aml</string>
+				<string>SSDT-RHUB.aml</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT-PMC.aml</string>
+				<string>SSDT-RHUB.aml</string>
 			</dict>
 		</array>
 		<key>Delete</key>
@@ -507,9 +515,9 @@
 		<key>Emulate</key>
 		<dict>
 			<key>Cpuid1Data</key>
-			<data></data>
+			<data>4AYJAAAAAAAAAAAAAAAAAA==</data>
 			<key>Cpuid1Mask</key>
-			<data></data>
+			<data>/////wAAAAAAAAAAAAAAAA==</data>
 			<key>DummyPowerManagement</key>
 			<false/>
 			<key>MaxKernel</key>
