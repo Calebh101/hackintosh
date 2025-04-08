@@ -262,10 +262,10 @@
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
-				<key>framebuffer-patch-enable</key>
-				<data>AAAAAA==</data>
 				<key>AAPL,ig-platform-id</key>
-				<data>AACbPg==</data>
+				<data>WRsAAA==</data>
+				<key>device-id</key>
+				<data>pT4AAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
