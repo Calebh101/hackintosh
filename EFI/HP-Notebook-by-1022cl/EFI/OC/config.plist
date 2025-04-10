@@ -450,12 +450,14 @@
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
+				<key>AAPL00,override-no-connect</key>
+				<data>AP///////wAGr54iAAAAABgcAQSVJhV4Au6FnllQnSYdUFQAAAABAQEBAQEBAQEBAQEBAQEBHCpAUmGEGjAwIDYAftYQAAAYExxAUmGEGjAwIDYAftYQAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAQSP8PPG5SECJuICAgAGE=</data>
 				<key>framebuffer-fbmem</key>
 				<data>AAAAAA==</data>
 				<key>framebuffer-stolenmem</key>
 				<data>AADAAQ==</data>
 				<key>AAPL,ig-platform-id</key>
-				<data>AACbPg==</data>
+				<data>AAAAAA==</data>
 				<key>device-id</key>
 				<data>pT4AAA==</data>
 				<key>framebuffer-patch-enable</key>
@@ -1445,7 +1447,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 alcid=11</string>
+				<string>-v keepsyms=1 debug=0x100 alcid=11 -igfxmlr</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
