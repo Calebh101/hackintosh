@@ -447,16 +447,14 @@
 			<dict/>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
-				<key>AAPL00,override-no-connect</key>
-				<data>AP///////wAGr54iAAAAABgcAQSVJhV4Au6FnllQnSYdUFQAAAABAQEBAQEBAQEBAQEBAQEBHCpAUmGEGjAwIDYAftYQAAAYExxAUmGEGjAwIDYAftYQAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAQSP8PPG5SECJuICAgAGE=</data>
-				<key>framebuffer-fbmem</key>
-				<data>AAAAAA==</data>
-				<key>framebuffer-stolenmem</key>
-				<data>AADAAQ==</data>
 				<key>AAPL,ig-platform-id</key>
-				<data>AACbPg==</data>
+				<data>AAAAAA==</data>
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
+				<key>framebuffer-stolenmem</key>
+				<data>AADAAQ==</data>
+				<key>framebuffer-fbmem</key>
+				<data>AAAAAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
